@@ -1,0 +1,29 @@
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\appsettings.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\Cashier application.staticwebassets.endpoints.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\Cashier application.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\Cashier application.deps.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\Cashier application.runtimeconfig.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\Cashier application.dll
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\bin\Debug\net8.0\Cashier application.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.AssemblyInfoInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.AssemblyInfo.cs
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\scopedcss\bundle\Cashier application.styles.css
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets\msbuild.Cashier application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets\msbuild.Cashier application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets\msbuild.build.Cashier application.props
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cashier application.props
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cashier application.props
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.dll
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\refint\Cashier application.dll
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\Cashier application.genruntimeconfig.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier application\obj\Debug\net8.0\ref\Cashier application.dll
