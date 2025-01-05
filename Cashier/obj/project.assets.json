@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dbz\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\ASP.NET-Core-Cashier-application\\Cashier\\Cashier.csproj",
+      "projectUniqueName": "E:\\yy Ebben Dolgozni\\Programozás\\C Sharp\\ASP.NET-Core-Cashier-application\\Cashier\\Cashier.csproj",
       "projectName": "Cashier",
-      "projectPath": "C:\\Users\\Dbz\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\ASP.NET-Core-Cashier-application\\Cashier\\Cashier.csproj",
+      "projectPath": "E:\\yy Ebben Dolgozni\\Programozás\\C Sharp\\ASP.NET-Core-Cashier-application\\Cashier\\Cashier.csproj",
       "packagesPath": "C:\\Users\\Dbz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dbz\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\ASP.NET-Core-Cashier-application\\Cashier\\obj\\",
+      "outputPath": "E:\\yy Ebben Dolgozni\\Programozás\\C Sharp\\ASP.NET-Core-Cashier-application\\Cashier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
