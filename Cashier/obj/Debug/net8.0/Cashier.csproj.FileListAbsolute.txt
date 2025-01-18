@@ -63,3 +63,36 @@ C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier
 C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.pdb
 C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.genruntimeconfig.cache
 C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\ref\Cashier.dll
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\appsettings.Development.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\appsettings.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.staticwebassets.endpoints.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.staticwebassets.runtime.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.exe
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.deps.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.runtimeconfig.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.dll
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\bin\Debug\net8.0\Cashier.pdb
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.GeneratedMSBuildEditorConfig.editorconfig
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.AssemblyInfoInputs.cache
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.AssemblyInfo.cs
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.csproj.CoreCompileInputs.cache
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.MvcApplicationPartsAssemblyInfo.cache
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.RazorAssemblyInfo.cache
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.RazorAssemblyInfo.cs
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.sourcelink.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\scopedcss\bundle\Cashier.styles.css
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets.build.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets.development.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets\msbuild.Cashier.Microsoft.AspNetCore.StaticWebAssets.props
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets\msbuild.Cashier.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets\msbuild.build.Cashier.props
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cashier.props
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cashier.props
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets.pack.json
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.dll
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\refint\Cashier.dll
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.pdb
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\Cashier.genruntimeconfig.cache
+E:\yy Ebben Dolgozni\Programozás\C Sharp\ASP.NET-Core-Cashier-application\Cashier\obj\Debug\net8.0\ref\Cashier.dll
