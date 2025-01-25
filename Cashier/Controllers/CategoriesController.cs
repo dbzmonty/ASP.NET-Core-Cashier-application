@@ -20,8 +20,30 @@ namespace Cashier.Controllers
         [HttpPost]
         public IActionResult Edit(Category category)
         {
-            CategoriesRepository.UpdateCategory(category.CategoryId, category);
-            return RedirectToAction(nameof(Index));
+            if (ModelState.IsValid)
+            {
+                CategoriesRepository.UpdateCategory(category.CategoryId, category);
+                return RedirectToAction(nameof(Index));
+            }
+            
+            return View(category);
+        }
+
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Add(/*[FromForm]*/Category category)
+        {
+            if (ModelState.IsValid) 
+            {
+                CategoriesRepository.AddCategory(category);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(category);
         }
     }
 }
