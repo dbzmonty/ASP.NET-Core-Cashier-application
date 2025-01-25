@@ -4,39 +4,4 @@
     <h3>Add Category</h3>
 }
 
-<form method="post" asp-asp-controller="categories" asp-action="Add">
-
-    <div class="text-danger" asp-validation-summary="All"></div>
-
-    <div class="row mb-3">
-        <div class="col-2">
-            <label class="col-form-label" asp-for="Name"></label>
-        </div>
-        <div class="col-6">
-            <input class="form-control" type="text" asp-for="Name" />
-        </div>
-        <div class="col">
-            <span class="text-danger" asp-validation-for="Name"></span>
-        </div>
-    </div>
-
-    <div class="row mb-3">
-        <div class="col-2">
-            <label class="col-form-label" asp-for="Description"></label>
-        </div>
-        <div class="col-6">
-            <input class="form-control" type="text" asp-for="Description" />
-        </div>
-        <div class="col">
-            <span class="text-danger" asp-validation-for="Description"></span>
-        </div>
-    </div>
-
-    <div class="row mb-3">
-        <div class="col-2">
-            <input type="submit" class="btn btn-primary" value="Add" />
-        </div>
-        <div class="col-6">
-        </div>
-    </div>
-</form>
+<partial name="_Category" model="@Model" />
